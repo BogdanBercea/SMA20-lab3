@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab2-UI</string>
+    <string name="activity_A">Activity-A</string>
+    <string name="activity_B">Activity-B</string>
+    <string name="activity_C">Activity-C</string>
+    <string name="button_A">A</string>
+    <string name="button_B">B</string>
+    <string name="button_C">C</string>
+    <string name="button_D">D</string>
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+    </string-array>
+</resources>
